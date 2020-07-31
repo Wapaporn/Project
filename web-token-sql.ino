@@ -33,10 +33,8 @@ int i = 0;
 // set pin numbers:
 
 #define ledPin  2        // the number of the LED pin
-const char* ssid     = "nn";
-const char* password = "12345678";
-//const char* ssid     = "w85";
-//const char* password = "85858585";
+const char* ssid     = "Miru";
+const char* password = "55555555";
 
 #define APPID   "tahewkaw"
 #define KEY     "WKNyyjMOpphlDgU"
